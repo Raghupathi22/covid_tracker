@@ -1,6 +1,6 @@
 # covid19
 
-A new Flutter application.
+Covid tracker app made with flutter and API call.
 
 ## Getting Started
 
