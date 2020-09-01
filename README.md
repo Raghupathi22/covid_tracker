@@ -1,6 +1,6 @@
 # covid19
 
-A new Flutter application.
+A flutter app that gives live count of covid-19 infections around the world.
 
 ## Getting Started
 
