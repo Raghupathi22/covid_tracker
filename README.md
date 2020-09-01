@@ -1,6 +1,9 @@
 # covid19
 
+
+ A flutter app that gives live count of covid-19 infections around the world.
 Covid tracker app made with flutter and API call.
+
 
 ## Getting Started
 
